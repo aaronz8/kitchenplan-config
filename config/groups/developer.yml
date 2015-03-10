@@ -59,13 +59,13 @@ attributes:
             - cassandra
             - rabbitmq
             - icu4c
-    nodejs:
-        apps:
-            - uglify-js
-            - uglifycss
-            - bower
-            - grunt
-            - grunt-cli
+    #nodejs:
+    #    apps:
+    #        - uglify-js
+    #        - uglifycss
+    #        - bower
+    #        - grunt
+    #        - grunt-cli
     gems:
         - sass
         - git-up
