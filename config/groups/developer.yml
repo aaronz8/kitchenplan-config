@@ -47,7 +47,7 @@ attributes:
             - gnupg
             - go
             - wget
-            - pwgenno
+            - pwgen
             - htop-osx
             - git-flow
             - siege
